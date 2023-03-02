@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#invoicetable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 50%;
+    height: 250px;
+    margin: 30px auto;
+    font-family: monospace;
+    font-size: 17px;
+}
+tr,td,th{
+    border:1px solid black ;
+    padding: 10px;
+
+}
+.first,.second{
+    background-color: lightskyblue;
+}
+#Subtotal,#Tax,#grandtotal{
+    background-color: lightskyblue;
+}
+caption{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
