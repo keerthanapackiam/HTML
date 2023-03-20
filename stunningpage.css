@@ -23,7 +23,7 @@ align-items: center;
 .navbar .navlist{
   text-decoration: none;
   padding: 6px 10px;
-  font-size: 15px;
+  font-size: 20px;
   color: black;
 }
 .navbar .navlist:hover{
@@ -37,7 +37,7 @@ align-items: center;
   border: none;
   padding: 8px 20px;
   border-radius: 13px;
-  font-size: 5px;
+  font-size: 20px;
 }
 .btn1 button:hover{
    background-color:rgb(233, 7, 45) ;
@@ -65,7 +65,7 @@ align-items: center;
     color: white;
     border: none;
     border-radius: 13px;
-    font-size: 5px;
+    font-size: 20px;
 }
 .btn2{
     display: flex;
